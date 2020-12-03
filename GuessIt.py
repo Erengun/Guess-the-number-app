@@ -1,10 +1,15 @@
 """
 1-100 arasında rastgele üretilecek bir sayıyı aşağı yukarı ifadeleri ile 
 buldurmaya çalışın.
-** "random modülü" için "python random" şeklinde arama yapın.
-*** 100 üzerinden puanlama yapın. Her soru 20 puan.
-**** Hak bilgisini kullanıcıdan alın ve her soru belirtilen can sayısı
+* Hak bilgisini kullanıcıdan alın ve her soru belirtilen can sayısı
      ürzerinden hesaplansın.
+"""
+
+"""
+A number between 1-100 will be randomly generated and app will help you with more or less expressions.
+try to find out.
+* Get the right information from the user and the number of lives specified in each question
+      Let it be calculated on it.
 """
 
 import random
